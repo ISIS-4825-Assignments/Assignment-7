@@ -1,0 +1,6 @@
+# Ignore virtual env
+env/
+
+# Ignora training, validation and test data
+data/pizza
+data/not_pizza
