@@ -4,3 +4,6 @@ env/
 # Ignora training, validation and test data
 data/pizza
 data/not_pizza
+
+# Ignore python version
+.python-version
